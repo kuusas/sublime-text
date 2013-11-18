@@ -1,0 +1,18 @@
+{
+	"bold_folder_labels": false,
+	"detect_indentation": true,
+	"font_size": 12,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Emmet",
+		"Vintage",
+		"SublimeCodeIntel"
+	],
+	"open_files_in_new_window": false,
+	"show_tab_close_buttons": false,
+	"spell_check": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
+}
